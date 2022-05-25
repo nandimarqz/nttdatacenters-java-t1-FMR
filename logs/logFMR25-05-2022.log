@@ -1,0 +1,42 @@
+12:39:35.715 [main] INFO  nttdata.javat1.game.Game - [<init>] - Se ha generado un juego
+12:39:35.717 [main] INFO  nttdata.javat1.game.Game - [launchAndStart] - Se ha iniciado el juego
+12:39:35.717 [main] INFO  nttdata.javat1.game.components.Board - [loadBoard] - Generando el tablero...
+12:39:35.718 [main] INFO  nttdata.javat1.game.components.Board - [loadBoard] - Tablero generado con éxito
+12:39:36.933 [main] INFO  nttdata.javat1.game.Game - [addPlayers] - Añadiendo jugadores...
+12:39:38.099 [main] INFO  n.javat1.game.components.Player - [<init>] - Se ha generado un jugador
+12:39:39.877 [main] INFO  n.javat1.game.components.Player - [<init>] - Se ha generado un jugador
+12:39:39.877 [main] INFO  nttdata.javat1.game.Game - [addPlayers] - Jugadores añadidos
+12:39:39.878 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:45.140 [main] INFO  nttdata.javat1.game.Game - [launchBall] - Se ha lanzado una bola
+12:39:45.140 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:45.140 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:45.140 [main] INFO  n.javat1.game.components.Player - [setScore] - Se han actualizado los puntos al jugador: Fernando
+12:39:45.141 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:50.282 [main] INFO  nttdata.javat1.game.Game - [launchBall] - Se ha lanzado una bola
+12:39:50.282 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:50.282 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:50.282 [main] INFO  n.javat1.game.components.Player - [setScore] - Se han actualizado los puntos al jugador: Fernando
+12:39:50.282 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:52.234 [main] INFO  nttdata.javat1.game.Game - [launchBall] - Se ha lanzado una bola
+12:39:52.234 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:52.234 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:39:52.234 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:00.901 [main] INFO  nttdata.javat1.game.Game - [launchBall] - Se ha lanzado una bola
+12:40:00.901 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:00.901 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:00.901 [main] INFO  n.javat1.game.components.Player - [setScore] - Se han actualizado los puntos al jugador: Pepe
+12:40:00.901 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:01.762 [main] INFO  nttdata.javat1.game.Game - [launchBall] - Se ha lanzado una bola
+12:40:01.762 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:01.762 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:01.762 [main] INFO  n.javat1.game.components.Player - [setScore] - Se han actualizado los puntos al jugador: Pepe
+12:40:01.762 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:02.839 [main] INFO  nttdata.javat1.game.Game - [launchBall] - Se ha lanzado una bola
+12:40:02.840 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:02.840 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:02.840 [main] INFO  n.javat1.game.components.Player - [setScore] - Se han actualizado los puntos al jugador: Pepe
+12:40:02.840 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:02.840 [main] INFO  nttdata.javat1.game.Game - [showPoints] - Se muestran los puntos de los jugadores
+12:40:02.840 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Pepe
+12:40:02.840 [main] INFO  n.javat1.game.components.Player - [getPoints] - Se han obtenido los puntos del jugador Fernando
+12:40:02.840 [main] INFO  nttdata.javat1.game.Game - [launchAndStart] - Se ha termiando el juego
