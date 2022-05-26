@@ -1,0 +1,4 @@
+11:36:04.881 [main] INFO  nttdata.javat1.game.Game - [<init>] - Se ha generado un juego
+11:36:04.883 [main] INFO  nttdata.javat1.game.Game - [launchAndStart] - Se ha iniciado el juego
+11:36:04.883 [main] INFO  nttdata.javat1.game.components.Board - [loadBoard] - Generando el tablero...
+11:36:04.883 [main] INFO  nttdata.javat1.game.components.Board - [loadBoard] - Tablero generado con éxito

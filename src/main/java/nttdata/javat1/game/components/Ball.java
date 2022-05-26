@@ -1,12 +1,13 @@
 package nttdata.javat1.game.components;
 
 /**
- * 
+ * Clase Ball
  * @author nandi
  *
  */
 public class Ball {
 	//Atributos de la bola
+	/** Valor de la bola */
 	private Score value;
 	
 	/**

@@ -3,8 +3,18 @@ package nttdata.javat1;
 import java.util.Scanner;
 
 import nttdata.javat1.game.Game;
-
+/**
+ * Main
+ * 
+ * @author nandi
+ *
+ */
 public class T1MainFMR {
+	/**
+	 * Metodo principal
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		try (Scanner scMain = new Scanner(System.in)) {
 

@@ -1,13 +1,14 @@
 package nttdata.javat1.game.components;
 
 /**
- * 
+ * Clase Score
  * @author nandi
  *
  */
 public class Score {
 
 	// Atributo de la puntuacion
+	/** Puntos */
 	private Integer points;
 
 	/**

@@ -4,15 +4,16 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * 
+ * Clase Board
  * @author nandi
  *
  */
 public class Board {
 
 	// Atributos tablero
+	/** Estructura tablero */
 	private Integer[][] board;
-	// Logger para las trazas
+	/** Logger para las trazas */
 	private static final Logger BOARDLOG = LoggerFactory.getLogger(Board.class);
 
 	/**

@@ -14,18 +14,24 @@ import nttdata.javat1.game.components.Board;
 import nttdata.javat1.game.components.Player;
 
 /**
- * 
+ * Clase Game 
  * @author nandi
  *
  */
 public class Game {
 
 	// Atributos del juego
+	/** Conjunto de jugadores */
 	private Set<Player> players;
+	/** Tablero */
 	private Board board;
+	/** Mal agujero */
 	private static final Integer WRONGHOLE = 0;
+	/** Buen agujero */
 	private static final Integer GHOLE = 1;
+	/** Rebote */
 	private static final Integer BOUNCE = 2;
+	/** Rebote con bonus */
 	private static final Integer BONUS = 3;
 	
 	// Logger para la trazas
@@ -149,7 +155,7 @@ public class Game {
 	 * posiciones del array bidimensional que es el tablero y segun la posicion que
 	 * caiga y el valor que tenga esa posicion ocurrira una accion u otra
 	 * 
-	 * @param player
+	 * @param p
 	 */
 	public void launchBall(Player p) {
 

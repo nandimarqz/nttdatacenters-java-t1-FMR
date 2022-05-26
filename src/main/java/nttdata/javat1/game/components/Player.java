@@ -6,14 +6,16 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * 
+ * Clase Player
  * @author nandi
  *
  */
 public class Player implements Comparable<Player> {
 
 	// Atributos del jugador
+	/** Nombre jugador*/
 	private String nombre;
+	/** Puntuacion jugador*/
 	private Score points;
 
 	// Logger para las trazas
@@ -23,7 +25,7 @@ public class Player implements Comparable<Player> {
 	 * Constructor del jugador solamente recibe el nombre, ya que los puntos es 0 al
 	 * comenzar
 	 * 
-	 * @param nombre
+	 * @param nombre nombre del jugador
 	 */
 	public Player(String nombre) {
 		super();
